@@ -25,6 +25,9 @@ Try `time ./py_train.h` to start training process.
 MAE: 57.46
 MSE: 88.04
 
+## Model
+
+[Google Drive](https://drive.google.com/file/d/1XkbgYUzAteSa85MDXXvOuzqtV79_y9v2/view?usp=sharing)
 
 ## References
 
