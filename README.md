@@ -28,7 +28,7 @@ MSE: 88.04
 
 ## References
 
-If you find the CSRNet useful, please cite our paper. Thank you!
+If you find the FFPNet useful, please cite our paper. Thank you!
 
 ```
 bit citation
